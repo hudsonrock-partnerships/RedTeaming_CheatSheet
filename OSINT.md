@@ -95,6 +95,7 @@ sherlock <USERNAME>
 - https://snusbase.com/
 - https://scylla.sh/
 - https://haveibeenpwned.com/
+- https://www.hudsonrock.com/threat-intelligence-cybercrime-tools
 
 #### Breachparse
 - https://github.com/hmaverickadams/breach-parse
